@@ -1,0 +1,8 @@
+{
+  "name": "Graph Motion",
+  "description": "High-quality, fluid motion animation tool featuring professional-grade character movement, enhanced sound effects, and seamless Remotion integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
